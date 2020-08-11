@@ -1,7 +1,7 @@
 {
   "name": "portafolio-mich",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto demo portafolio",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
